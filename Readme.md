@@ -1,7 +1,7 @@
 # TheMovieDB Helper [![License](https://img.shields.io/badge/License-GPLv3-blue)](https://github.com/jurialmunkey/plugin.video.themoviedb.helper/blob/master/LICENSE.txt)
 
-[!WARNING] 
-This is the README of the official addon. Do not follow the installation instructions.
+> [!WARNING] 
+> This is the README of the official addon. Do not follow the installation instructions.
 
 <table><tr><td><img src="https://github.githubassets.com/images/modules/site/icons/funding_platforms/ko_fi.svg" width="48" height="48" /></td><td><b>Buy me a Coffee</b><br>https://ko-fi.com/jurialmunkey</td></tr></table>
 
